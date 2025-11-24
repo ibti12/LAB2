@@ -156,7 +156,4 @@ python lab2_questions.py
 * [Apache Spark — CSV Data Source](https://spark.apache.org/docs/latest/sql-data-sources-csv.html)
 * Docker + Spark tutorials for volume mounting
 
-```
-
----
 
